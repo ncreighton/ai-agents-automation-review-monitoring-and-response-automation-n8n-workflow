@@ -1,2 +1,28 @@
-# ai-agents-automation-review-monitoring-and-response-automation-n8n-workflow
-Supercharge your online reputation management with our AI Agents &amp; Automation Review Monitoring and Response Automation N8N Workflow. This powerful digital product leverages cutting-edge AI agents and the flexibility of N8N to aggregate reviews from all major platforms—Google, Yelp, Facebook, Trustpilot, and more—into a single, unified dashboard. W
+# AI Agents & Automation Review Monitoring and Response Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E8wP5iTf6Q6xycDWcZX0o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E8wP5iTf6Q6xycDWcZX0o)
+
